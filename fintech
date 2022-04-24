@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Fintechheply | Bubble Editor</title>
+<script type="text/javascript">
+    window.bubble_session_uid = '1650707749412x439741718610971600';
+</script>
+<link rel="icon" type="image/png" href="https://dd7tel2830j4w.cloudfront.net/f1530294839424x143528842134401200/Icon-no-clearspace.png" />
+<script type="text/javascript" src="https://checkout.stripe.com/checkout.js"></script>
+<script type="text/javascript">window.gm_key = "AIzaSyDGe0TMkyEw0MtTzWv7QLMV5WPWtozLPt8";</script>
+<script type="text/javascript" crossorigin="anonymous" charset="UTF-8" src="/package/early_js/d1048cee6afc1fdb5f278d808e220f91b0c5c31f7a4d3779fc843a96bdd08577/xtrue/early.js"></script>
+<script type="text/javascript">window.WORKER_URL = '/package/worker_js/9c491edafa0a8b4bfee338f18e036365d0d4012082535b430e8f72a7482401a8//worker.js';</script>
+<link type="text/css" href="/package/edit_css/15eb69657a9df8ca8c81b7a1c75aac125d5e7cb2b17b04aa0c1dbd8fa18f0320/xfalse/edit.css" rel="stylesheet">
+<script type="text/javascript" crossorigin="anonymous" charset="UTF-8" src="/package/edit_js/0eb836ca866a591bb9aa0ed0d3f8a601b5dcbf8084bda4f10945661d25aecc2c/xfalse/xfalse/xfalse/xfalse/edit.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="/static/codemirror/lib/codemirror.js"></script>
+<link rel="stylesheet" href="/static/codemirror/lib/codemirror.css">
+<script type="text/javascript" crossorigin="anonymous" src="/static/codemirror/mode/javascript/javascript.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="/static/codemirror/mode/xml/xml.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="/static/codemirror/mode/css/css.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="/static/codemirror/mode/htmlmixed/htmlmixed.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="/static/codemirror/mode/htmlmixed/htmlmixed.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="/static/codemirror/addon/selection/active-line.js"></script>
+<script type="text/javascript" src="https://api.blockspring.com/bsc.js"></script>
+<meta name="viewport" content="user-scalable=0, minimal-ui, width=1200" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="google-site-verification" content="88Ar13XH_rSvj7CJtTCL1jWpReoEHqiUFARcvqmUlPs" />
+<meta name="description" content="Bubble introduces a new way to build a web application. It’s a point-and-click programming tool. Bubble hosts all applications on its cloud platform.">
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:title" content="Bubble Editor - Fintechheply" />
+<meta name="twitter:title" content="Bubble Editor - Fintechheply" />
+<meta property="og:site_name" content="Bubble" />
+<meta name="twitter:site_name" content="Bubble" />
+<meta property="og:description" content="Build stuff without code and launch a startup without a tech-cofounder! Bubble is a visual programing language. Instead of typing code, use a visual editor to build applications. " />
+<meta name="twitter:description" content="Build stuff without code and launch a startup without a tech-cofounder! Bubble is a visual programing language. Instead of typing code, use a visual editor to build applications. " />
+<link rel="image_src" href="https://dd7tel2830j4w.cloudfront.net/f1578495816588x646815646347334700/Bubble%20Tags.png" />
+<meta property="og:image" content="https://dd7tel2830j4w.cloudfront.net/f1578495816588x646815646347334700/Bubble%20Tags.png" />
+<meta name="twitter:image:src" content="https://dd7tel2830j4w.cloudfront.net/f1578495816588x646815646347334700/Bubble%20Tags.png" />
+<meta property="og:url" content="https://bubble.io/page?id=fintechheply&amp;name=fintech_sol&amp;subtab=Plan&amp;tab=tabs-1&amp;type=page" />
+<meta property="og:type" content="website" />
+<meta property="fb:app_id" content="340887986039814" />
+</head>
+<body><script type="text/javascript">
+window.addEventListener('DOMContentLoaded', function (event) {
+  if (window.appquery == null) {
+    css = document.createElement('style');
+css.type='text/css';
+css.appendChild(document.createTextNode(".warning-message-failure {padding: 30px; line-height: 1.5; white-space: pre; z-index: 1000000; position: fixed; width: 100%; height: 100%; background: white;}"));
+document.getElementsByTagName("head")[0].appendChild(css);
+var newDiv = document.createElement("div");
+newDiv.className = "warning-message-failure";
+newDiv.innerHTML = "Your browser was unable to load some necessary resources, contact your IT network administrator and ask them to allow access to <br><br>     dhtiece9044ep.cloudfront.net <br>     dd7tel2830j4w.cloudfront.net/ <br>     d1muf25xaso8hp.cloudfront.net";
+document.body.appendChild(newDiv);
+    httpRequest = new XMLHttpRequest();
+httpRequest.open('POST', '/user/m', true);
+httpRequest.setRequestHeader('Content-Type', 'application/json');
+httpRequest.send(JSON.stringify({measures: {page_load_error: 1, url: document.location.href, errors: window.load_error_log}}));
+  };
+});
+</script> <div class="body" style="display:none;">
+<div class="menu-bar">
+<a class="logo">
+</a>
+<div class="project-name menu-item">
+<div class="wrapper">
+<div class="page-name"></div>
+<div class="page-name-search" style="display:none;">
+<input></input>
+</div>
+</div>
+</div>
+<div class="element-picker"></div>
+<div class="menu-item edit"></div>
+<div class="menu-item help"></div>
+<div class="menu-item user-name"></div>
+<div class="icon_bar">
+<div class="btn preview"></div>
+<div class="version-dropdown"></div>
+<div class="save-local-button btn">Save Locally</div>
+<div class="btn search-tool"></div>
+</div>
+<div class="icons_box">
+<div class="undo_redo_box">
+<div class="btn undo"></div>
+<div class="btn redo"></div>
+</div>
+<div class="edit_icons_box">
+<div class="btn pointer disabled"></div>
+<div class="grid-settings-btn"></div>
+<div class="arrange-btn"></div>
+</div>
+<div class="responsive_icon_box">
+<div class="btn r-debug-mode"></div>
+<div class="btn r-pause-engine"></div>
+</div>
+</div>
+<div class="btn to-do-button initializing"></div>
+<div class="simple-notification"></div>
+<div class="btn usage-limit-warning"></div>
+</div>
+<div class="status-notification">
+<div class="message-box">
+<div class="loading-animation">
+<div class='bubble'></div>
+<div class='pulse'></div>
+</div>
+<div class="subtitle"></div>
+</div>
+</div>
+<div class="main-tab-bar">
+<div class="tab tabs-1"></div>
+<div class="tab tabs-2"></div>
+<div class="tab tabs-3"></div>
+<div class="tab tabs-4"></div>
+<div class="tab tabs-5"></div>
+<div class="tab tabs-6"></div>
+<div class="tab tabs-7"></div>
+<div class="tab tabs-8"></div>
+</div>
+<div class="visual-edit-toolbox">
+<div class="responsive-mode-dropdown"></div>
+<div class="toolbox-pane">
+<div class="bubble-ui btn grey responsive-upgrade-btn">
+<div class="upgrade-icon r-icon r-icon-upgrade"></div>
+Upgrade responsive [beta]
+</div>
+<div class="layers-box builder">
+<h2></h2>
+<div class="state-list" style="display:none;">
+<div class="options"></div>
+<div class="tree"></div>
+</div>
+</div>
+<div class="res-states v0"></div>
+<div class="res-page-size v1"></div>
+<div class="res-states v1"></div>
+<div class="layers-box responsive v0">
+<h2 class="open"></h2>
+<div class="state-list responsive"></div>
+</div>
+<div class="layers-box responsive v1">
+<h2 class="open"></h2>
+<div class="state-list responsive"></div>
+</div>
+<div class="bubble-ui btn grey tutorial-resp"></div>
+<div class="toolbox-panel">
+<div class="new-element-finder"></div>
+<div class="icons">
+<div class="icon_section">
+<div class="section_title visual"></div>
+<div class="icon_container visual">
+<div class="add_element text">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Text"></div>
+</div>
+<div class="add_element button">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Button"></div>
+</div>
+<div class="add_element icon">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Icon"></div>
+</div>
+<div class="add_element link">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Link"></div>
+</div>
+<div class="add_element image">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Image"></div>
+</div>
+<div class="add_element shape">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Shape"></div>
+</div>
+<div class="add_element alert">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Alert"></div>
+</div>
+<div class="add_element video">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Video"></div>
+</div>
+<div class="add_element html">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="HTML"></div>
+</div>
+<div class="add_element googlemap">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="GoogleMap"></div>
+</div>
+<div class="add_element poweredbybubble">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="PoweredByBubble"></div>
+</div>
+</div>
+</div>
+<div class="icon_section">
+<div class="section_title containers"></div>
+<div class="icon_container containers">
+<div class="add_element group">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Group"></div>
+</div>
+<div class="add_element repeatinggroup">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="RepeatingGroup"></div>
+</div>
+<div class="add_element popup">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Popup"></div>
+</div>
+<div class="add_element floatinggroup">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="FloatingGroup"></div>
+</div>
+<div class="add_element groupfocus">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="GroupFocus"></div>
+</div>
+
+</div>
+</div>
+<div class="icon_section">
+<div class="section_title forms"></div>
+<div class="icon_container forms">
+<div class="add_element input">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Input"></div>
+</div>
+<div class="add_element multilineinput">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="MultiLineInput"></div>
+</div>
+<div class="add_element checkbox">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Checkbox"></div>
+</div>
+<div class="add_element dropdown">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="Dropdown"></div>
+</div>
+<div class="add_element autocompletedropdown">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="AutocompleteDropdown"></div>
+</div>
+<div class="add_element radiobuttons">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="RadioButtons"></div>
+</div>
+<div class="add_element sliderinput">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="SliderInput"></div>
+</div>
+<div class="add_element dateinput">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="DateInput"></div>
+</div>
+<div class="add_element pictureinput">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="PictureInput"></div>
+</div>
+<div class="add_element fileinput">
+<div class="element_icon"></div>
+<div class="icon_text" element_name="FileInput"></div>
+</div>
+</div>
+</div>
+<div class="icon_section">
+<div class="section_title reusable"></div>
+<div class="icon_container reusable custom"></div>
+</div>
+<div class="icon_section">
+<div class="section_title element-templates"></div>
+<div class="icon_container element-templates"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="show-toolbox-pane-button opened">
+<div class="icon">
+</div>
+</div>
+</div>
+<div class="action-canvas-toolbox">
+<div class="toolbox-pane">
+<div class="workflow-folders slidable-box">
+<div class="section_title folders open"></div>
+<div class="folders-wrapper wrapper"></div>
+</div>
+<div class="workflow-tree slidable-box">
+<div class="section_title workflow-tree close"></div>
+<div class="workflow-tree-wrapper wrapper" style="display:none;">
+<div class="children-wrapper"></div>
+</div>
+</div>
+</div>
+<div class="show-toolbox-pane-button">
+<div class="icon">
+</div>
+</div>
+</div>
+<div class="mainwindow">
+<div class="tabs-1 tabcanvas">
+<div class="breakpoint-toolbar"></div>
+<div class="canvas"></div>
+</div>
+<div class="tabs-2 tabcanvas">
+<div class="action-editor">
+</div>
+</div>
+<div class="tabs-3 tabcanvas">
+<div class="data-editor">
+</div>
+</div>
+<div class="tabs-4 tabcanvas">
+<div class="styles-editor">
+</div>
+</div>
+<div class="tabs-5 tabcanvas">
+<div class="plugin-editor">
+</div>
+</div>
+<div class="tabs-6 tabcanvas">
+<div class="settings-editor">
+</div>
+</div>
+<div class="tabs-7 tabcanvas">
+<div class="logs-editor">
+</div>
+</div>
+<div class="tabs-8 tabcanvas">
+<div class="template-editor">
+</div>
+</div>
+<div class="tabs-9 tabcanvas">
+<div class="docs-editor">
+</div>
+</div>
+</div>
+<div class="clearer">
+</div>
+</div>
+<img style="display: none;" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /><script type="text/javascript">window.pv_data = [{"key":"full_url_text","value":"https://bubble.io/page?id=fintechheply&name=fintech_sol&subtab=Plan&tab=tabs-1&type=page"},{"key":"referrer_text","value":"direct"},{"key":"referring_domain_text","value":"direct"},{"key":"pagename_text","value":"page"},{"key":"user_agent_text","value":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"},{"key":"current_page_thing_text","value":"fintechheply"}];</script>
+</body>
